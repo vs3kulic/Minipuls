@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Verdana', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.bold-font-h1 {
+    font-family: 'Verdana', sans-serif;
+    font-weight: bold;
+    font-size: 3.6em;
+    color: #333;
+}
+
+.bold-font-p {
+    font-family: 'Verdana', sans-serif;
+    font-weight: narrow;
+    font-size: 1.2em;
+    color: #333;
+}
+
